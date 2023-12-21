@@ -7,4 +7,4 @@ I am a Linux administrator with experience in managing servers and services on t
 ## Contact
 - Email: praveen.mani4789@gmail.com
 - LinkedIn: [Praveen M](https://www.linkedin.com/in/praveenmani4789/)
-- Resume: [Praveen_LinuxAdmin](https://docs.google.com/document/d/1VU75pfIAY6piEhiHRcmubF4Ac9gQyx3V/edit?usp=drive_link&ouid=110208433314328760853&rtpof=true&sd=true)
+- Resume: [Praveen_LinuxAdmin](https://drive.google.com/file/d/1DQE5IxfW14B64nQ8h57AHg-GFqv-DdTU/view?usp=drive_link)
