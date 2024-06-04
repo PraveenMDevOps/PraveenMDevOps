@@ -14,4 +14,4 @@ As I explore the powerful synergy between Docker, Kubernetes, and DevOps princip
 ## About Me
 - Email: praveen.mani4789@gmail.com
 - LinkedIn: [Praveen M](https://www.linkedin.com/in/praveenmani4789/)
-- Resume: [Praveen_DevOps](https://drive.google.com/file/d/1euHam5cLwI5ZBta-c4pwuJDytlM87hDX/view?usp=drive_link)
+- Resume: [Praveen_DevOps](https://drive.google.com/file/d/1DIAVPtGsstboKASe5tH_V26t2YMNAs0R/view?usp=drive_link)
