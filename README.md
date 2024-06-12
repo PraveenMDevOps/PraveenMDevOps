@@ -30,7 +30,7 @@ I'm a passionate DevOps Engineer with a strong background in Linux administratio
 - **Email:** [praveendevops727@gmail.com](mailto:praveendevops727@gmail.com)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenMDevOps&show_icons=true&theme=radical)
 
 ## Fun Facts
 - 🚀 I love automating everything!
