@@ -29,8 +29,8 @@ I'm a passionate DevOps Engineer with a strong background in Linux administratio
 - **LinkedIn:** [Praveen M](www.linkedin.com/in/praveenmdevops)
 - **Email:** [praveendevops727@gmail.com](mailto:praveendevops727@gmail.com)
 
-## GitHub Stats
-![Your GitHub Stats](https://drive.google.com/file/d/1TdVQknnffCxRRarDt2nlEaBWg9lX7OGZ/view?usp=drive_link)
+## My Profile
+![Resume](https://drive.google.com/file/d/1TdVQknnffCxRRarDt2nlEaBWg9lX7OGZ/view?usp=drive_link)
 
 ## Fun Facts
 - 🚀 I love automating everything!
