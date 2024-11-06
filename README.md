@@ -30,7 +30,7 @@ I'm a passionate DevOps Engineer with a strong background in Linux administratio
 - **Email:** [praveendevops727@gmail.com](mailto:praveendevops727@gmail.com)
 
 ## My Profile
-[To know my experience, click here](https://drive.google.com/file/d/1TdVQknnffCxRRarDt2nlEaBWg9lX7OGZ/view?usp=drive_link)
+To know my experience, [click here](https://drive.google.com/file/d/1TdVQknnffCxRRarDt2nlEaBWg9lX7OGZ/view?usp=drive_link)
 
 ## Fun Facts
 - 🚀 I love automating everything!
