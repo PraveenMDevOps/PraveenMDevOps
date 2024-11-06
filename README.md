@@ -26,11 +26,11 @@ I'm a passionate DevOps Engineer with a strong background in Linux administratio
 - **Technologies:** Jenkins, Git, Docker, Kubernetes
 
 ## Contact Me
-- **LinkedIn:** [Praveen M](www.linkedin.com/in/praveenmani4789)
+- **LinkedIn:** [Praveen M](www.linkedin.com/in/praveenmdevops)
 - **Email:** [praveendevops727@gmail.com](mailto:praveendevops727@gmail.com)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenMDevOps&show_icons=true&theme=radical)
+![Your GitHub Stats](https://drive.google.com/file/d/1TdVQknnffCxRRarDt2nlEaBWg9lX7OGZ/view?usp=drive_link)
 
 ## Fun Facts
 - 🚀 I love automating everything!
